@@ -1,5 +1,10 @@
 ## Numbers Helper Package
 
+
+```bash
+pip3 install NumbersHelper
+```
+
 ### Functions:
 
 * Logger
